@@ -1,4 +1,4 @@
-# HR-Analytics-Project-Employees-Survey-snd-Performance-Analysis
+# HR-Analytics-Project-Employees-Survey-and-Performance-Analysis
 
 # Project Title:
 Enhancing Workforce Engagement: Analyzing Employee Surveys and Performance Metrics
